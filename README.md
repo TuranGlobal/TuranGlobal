@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Turan is a Community Finance ecosystem implemented through smart contracts. Participants interact via pools and on-chain mechanisms, enabling automated fund distribution, algorithmic liquidity provision, and transparent capital coordination under predefined rules.
+
+
 <!--
 **TuranGlobal/TuranGlobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
